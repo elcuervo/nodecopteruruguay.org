@@ -2,7 +2,7 @@ body {
   background-color: #002938
 }
 
-h1 {
+h1, h2 {
   font-family: 'Bevan', cursive;
   color: white;
 }
