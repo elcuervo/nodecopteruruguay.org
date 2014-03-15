@@ -6,3 +6,9 @@ h1, h2 {
   font-family: 'Bevan', cursive;
   color: white;
 }
+
+a {
+  font-family: 'Bevan', cursive;
+  font-size: 2em;
+  color: #39b6e5;
+}
